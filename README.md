@@ -43,7 +43,8 @@ ATENÇÃO: faça questão de que todos os arquivos chamados pelos códigos Pytho
 Quando testamos o código com os arquivos de texto com os arrays e plotamos os gráficos geramos as imagens já contidas no repositório.
 
 * Resultado do teste básico:
-![plot1aN](https://github.com/user-attachments/assets/42554d67-1b64-430c-926b-ce1701e76dde)
+![plotBasico](https://github.com/user-attachments/assets/6c9c011c-cc3d-4e23-b183-a8ee0c080670)
+
 
 * Resultado do teste 1 a n:
-![plotBasico](https://github.com/user-attachments/assets/6c9c011c-cc3d-4e23-b183-a8ee0c080670)
+![plot1aN](https://github.com/user-attachments/assets/42554d67-1b64-430c-926b-ce1701e76dde)

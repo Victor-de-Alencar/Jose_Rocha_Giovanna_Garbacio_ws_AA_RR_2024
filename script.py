@@ -39,7 +39,7 @@ def salvar_log(medias_tempos_binaria, medias_tempos_interpolacao):
             tempo_interpolacao = medias_tempos_interpolacao[tamanho]
             log_file.write(f"{tamanho}\t{tempo_binaria:.6f}\t{tempo_interpolacao:.6f}\n")
 
-if __name__ == "__main__":
+if __name__ == "__main__": # Nomes dos arquivos devem ser modificados e deseja testar com os arrays de 1 a N.
     arquivos_arrays = [
         "array_teste_10.txt",
         "array_teste_100.txt",

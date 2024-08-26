@@ -26,7 +26,7 @@ NOTA: Os arrays que utilizamos nos nossos testes não estão contidos neste repo
 
 ### 2. Como executar:
 
-Para gerar o log basta executar o _script.py_, ele compila os códigos em C automaticamente. para executa-lo use o comando: 
+Para gerar o log basta executar o _script.py_, ele compila os códigos em C automaticamente. para executá-lo use o comando: 
 ```
 python3 script.py
 ```
@@ -35,7 +35,7 @@ Para gerar o gráfico a partir do log execute _plotar.py_ com o seguinte comando
 ```
 python3 plotar.py
 ```
-ATENÇÃO: faça questão de que todos os arquivos chamados pelos códigos Python (arquivos .c e .txt) estejam na mesma pasta que os códigos que os chamam e que a depender do tipo de teste que almeja ser feito (Básico ou 1 a N) algumas referências a arquivos dentro dos códigos python devem ser modificadas.
+NOTA: faça questão de que todos os arquivos chamados pelos códigos Python (arquivos .c e .txt) estejam na mesma pasta que os códigos que os chamam e que a depender do tipo de teste que almeja ser feito (Básico ou 1 a N) algumas referências a arquivos dentro dos códigos python devem ser modificadas.
 
 
 ### 3. Resultados esperados: 

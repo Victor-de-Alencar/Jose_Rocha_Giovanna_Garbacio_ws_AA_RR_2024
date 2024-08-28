@@ -17,6 +17,8 @@
 
 **_teste_basico/plotBasico.png_**: Gráfico gerado pelo _plotar.py_ depois de um teste feito com os arrays gerados pelo _gerador.c_.
 
+**_teste_basico/log_tempo_execucao.txt_**: Log gerado pelo _script.py_ e utilizado para plotar _plotBasico.png_.
+
 **_teste_1aN/gerador1aN.c_**: Gera arrays de 10, 100, 1000, 10000, 100000, 1000000 e 10000000 elementos com números de 1 até o tamanho do array, únicos e organizados em ordem crescente.
 
 **_teste_1aN/plot1aN.c_**: Gráfico gerado pelo plotar.py depois de um teste feito com os arrays gerados pelo gerador1aN.c

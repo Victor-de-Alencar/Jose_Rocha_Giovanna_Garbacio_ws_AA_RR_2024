@@ -1,0 +1,8 @@
+Tamanho do Array	Tempo Médio de Execução - Busca Binária (s)	Tempo Médio de Execução - Busca por Interpolação (s)
+10	0.085163	0.041834
+100	0.014428	0.016093
+1000	0.016032	0.015262
+10000	0.026359	0.028360
+100000	0.108470	0.105292
+1000000	0.886159	0.874783
+10000000	8.455257	8.625650

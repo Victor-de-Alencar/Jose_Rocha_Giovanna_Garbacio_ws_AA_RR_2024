@@ -1,0 +1,7 @@
+Tamanho do Array	Comparações - Busca Binária	Comparações - Busca por Interpolação
+10	3	4
+100	6	1
+1000	9	2
+10000	13	1
+100000	16	1
+1000000	19	1

@@ -23,6 +23,8 @@
 
 **_teste_1aN/plot1aN.c_**: Gráfico gerado pelo plotar.py depois de um teste feito com os arrays gerados pelo gerador1aN.c
 
+**_teste_1aN/log_tempo_execucao1aN.txt_**: Log gerado pelo _script.py_ e utilizado para plotar _plot1aN.png_.
+
 NOTA: Os arrays que utilizamos nos nossos testes não estão contidos neste repositório por serem grandes demais para serem suportados pelo github, para a reprodução é possível gerar arrays de teste com os códigos geradores contidos nas pastas.
 
 

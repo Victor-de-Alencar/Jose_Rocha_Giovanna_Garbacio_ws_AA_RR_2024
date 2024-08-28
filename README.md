@@ -64,3 +64,9 @@ Quando testamos o código com os arquivos de texto com os arrays e plotamos os g
 
 * Resultado do teste 1 a n:
 ![plot1aN](https://github.com/user-attachments/assets/42554d67-1b64-430c-926b-ce1701e76dde)
+
+
+Ao analisar os resultados percebemos que os tempos de execução estavam muito semelhantes. Para averiguar o motivo decidimos isolar as partes dos códigos que fazem as buscas e medir o seu tempo de execução novamente, ao fazer isso percebemos que os tempos são menores que 1 microsegundo até mesmo para arrays com 10 milhões de elementos, por isso decidimos comparar os dois algoritmos com base no número de elementos consultados durante a busca.
+
+* Resultado do teste de elementos consultados:
+![plotComp](https://github.com/user-attachments/assets/61ddd43b-2012-4dbc-a93f-eda63fef253a)

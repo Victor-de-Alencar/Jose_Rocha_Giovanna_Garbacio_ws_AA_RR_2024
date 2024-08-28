@@ -1,0 +1,8 @@
+Tamanho do Array	Tempo M�dio de Execu��o - Busca Bin�ria (s)	Tempo M�dio de Execu��o - Busca por Interpola��o (s)
+10	0.095762	0.063603
+100	0.014433	0.015879
+1000	0.017541	0.032607
+10000	0.022953	0.021546
+100000	0.083249	0.081476
+1000000	0.714790	0.719451
+10000000	7.542484	7.506410

@@ -25,6 +25,18 @@
 
 **_teste_1aN/log_tempo_execucao1aN.txt_**: Log gerado pelo _script.py_ e utilizado para plotar _plot1aN.png_.
 
+**_teste_comp/busca_binaria_comp.c_**: Busca binária adaptada para contar quantos elementos do array são consultados.
+
+**_teste_comp/busca_interpolacao_comp.c_**: Busca por interpolação adaptada para contar quantos elementos do array são consultados.
+
+**_teste_comp/script_comp.py_**: Código em python adaptado para armazenar o número de elementos consultados pelos algoritmos de busca para cada tamanho de array. Utiliza os mesmos arrays do teste básico.
+
+**_teste_comp/plotar_comp.py_**: Gera um gráfico que compara o número de elementos consultados pelos algoritmos de busca a partir do log gerado pelo _script_comp.py_.
+
+**_teste_comp/plotComp.png_**: Gráfico gerado pelo plotar_comp.py depois de um teste feito com os arrays gerados pelo gerador.c
+
+**_teste_comp/log_comparacoes.txt_**: Log gerado pelo _script_comp.py_ e utilizado para plotar _plotComp.png_.
+
 NOTA: Os arrays que utilizamos nos nossos testes não estão contidos neste repositório por serem grandes demais para serem suportados pelo github, para a reprodução é possível gerar arrays de teste com os códigos geradores contidos nas pastas.
 
 
